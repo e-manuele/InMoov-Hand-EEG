@@ -152,3 +152,5 @@ https://phdtopic.com/brain-computer-interface-project-ideas/
 https://medium.com/@riazsulaimi/an-eeg-controlled-wheelchair-project-using-tgam-mindwave-eeg-sensor-android-arduino-ce710cce4dd6
 
 https://www.ijitee.org/wp-content/uploads/papers/v8i11/K24530981119.pdf
+
+http://3.109.51.12/images/naac_2021_CRITERIA3_1676614194649.pdf
