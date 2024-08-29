@@ -149,4 +149,4 @@ link utili:
 https://www.researchgate.net/publication/377200718_An_Overview_of_Mindwave_Applications_Study_Cases
 https://www.pantechsolutions.net/top-25-brain-computer-interface-projects
 https://phdtopic.com/brain-computer-interface-project-ideas/
-
+https://medium.com/@riazsulaimi/an-eeg-controlled-wheelchair-project-using-tgam-mindwave-eeg-sensor-android-arduino-ce710cce4dd6
