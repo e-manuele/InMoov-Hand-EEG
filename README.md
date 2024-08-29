@@ -143,3 +143,10 @@ if(bigPacket) {
 5. **Controllo dei servomotori:** Usa il valore di attenzione per determinare la posizione dei servomotori del braccio robotico.
 
 Questo schema ti aiuta a capire come il codice riceve e interpreta i dati via Bluetooth e come utilizza questi dati per controllare il braccio robotico.
+
+
+link utili:
+https://www.researchgate.net/publication/377200718_An_Overview_of_Mindwave_Applications_Study_Cases
+https://www.pantechsolutions.net/top-25-brain-computer-interface-projects
+https://phdtopic.com/brain-computer-interface-project-ideas/
+
